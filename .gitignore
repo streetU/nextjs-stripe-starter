@@ -37,5 +37,5 @@ yarn-error.log*
 .vscode
 
 .nhost
-.env.development
+#.env.development
 functions/node_modules
